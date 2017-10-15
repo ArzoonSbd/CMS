@@ -1,0 +1,50 @@
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\bin\Debug\Cattle Management System.exe.config
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\bin\Debug\Cattle Management System.exe
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\bin\Debug\Cattle Management System.pdb
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\bin\Debug\Cattle Management System.xml
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle Management System.vbprojResolveAssemblyReference.cache
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.loginForm.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Resources.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle Management System.vbproj.GenerateResource.Cache
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle Management System.exe
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle Management System.xml
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle Management System.pdb
+C:\Users\HeroGurung\documents\visual studio 2017\Projects\Cattle Management System\Cattle Management System\bin\Debug\MySql.Data.dll
+C:\Users\HeroGurung\documents\visual studio 2017\Projects\Cattle Management System\Cattle Management System\bin\Debug\MySql.Data.xml
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Add_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.purchase_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.sell_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Edit_authentication_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Add_staff_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Salary_management_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.staffDetailForm.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Cattle_detail_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.cmsPage.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Sale_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Cattle_reports_form.resources
+C:\Users\HeroGurung\Documents\Visual Studio 2017\Projects\Cattle Management System\Cattle Management System\obj\Debug\Cattle_Management_System.Medical_Condition_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\bin\Debug\Cattle Management System.exe.config
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle Management System.exe
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle Management System.xml
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle Management System.pdb
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\bin\Debug\Cattle Management System.exe
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\bin\Debug\Cattle Management System.pdb
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\bin\Debug\Cattle Management System.xml
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\bin\Debug\MySql.Data.dll
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\bin\Debug\MySql.Data.xml
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle Management System.vbprojResolveAssemblyReference.cache
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Add_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.purchase_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.sell_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Edit_authentication_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Add_staff_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Salary_management_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.staffDetailForm.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Cattle_detail_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.cmsPage.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.loginForm.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Resources.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Sale_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Cattle_reports_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle_Management_System.Medical_Condition_form.resources
+D:\CLZ\4th Semester\VB.Net documentation\Cattle Management System\obj\Debug\Cattle Management System.vbproj.GenerateResource.Cache
